@@ -1,0 +1,8 @@
+streamlit
+pandas
+dill
+joblib
+scikit-learn
+joblib
+
+
